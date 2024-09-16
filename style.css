@@ -1,3 +1,8 @@
 body{
-    background-color: deeppink;
+    background-color: rgb(223, 36, 135);
+}
+
+h1{
+    color: blue;
+    background-color: rgb(156, 27, 53);
 }
